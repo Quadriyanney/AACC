@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">AACC</string>
+    <string name="get_list">GET LIST</string>
+    <string name="developers_list">Developers List</string>
+    <string name="share">SHARE</string>
+</resources>
